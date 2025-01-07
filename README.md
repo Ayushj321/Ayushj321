@@ -1,5 +1,6 @@
-![Data Analyst](https://github.com/Ayushj321/Ayushj321/blob/d84286e6c225b3849e06f95d281d93de5b3986c3/Data%20Analyst.png)  
-
+<p align="center">
+  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Ayush 👋 I'm a 🚀 Data Analyst 🚀 I ❤️ Data ❤️">
+</p>
 # Welcome to My GitHub Profile 👋
 
 Hello and thank you for visiting my profile! I'm a **B.Tech graduate in Information Technology** with a strong passion for **Mathematics** and **problem-solving**. Over time, I’ve cultivated a deep interest in **data analysis**, which has driven me to explore various tools and techniques to uncover valuable insights from data. 
