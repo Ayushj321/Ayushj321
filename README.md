@@ -1,4 +1,4 @@
-![Data Analyst](https://drive.google.com/file/d/1mMxu3SOd6_id0SePCkH-w0eHpQQxx6i5/view?usp=sharing)  
+![Data Analyst](https://github.com/Ayushj321/Ayushj321/blob/d84286e6c225b3849e06f95d281d93de5b3986c3/Data%20Analyst.png)  
 
 # Welcome to My GitHub Profile 👋
 
