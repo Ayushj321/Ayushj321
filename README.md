@@ -25,15 +25,15 @@ I’ve had the opportunity to work on a variety of real-world projects, where I 
 
 1. **Zepto Sales Analysis**  
    Analyzed sales data from Zepto to uncover patterns, trends, and key metrics that can drive business decisions.
-   ![Zepto Sales Analysis](screenshot_link_here)  
+   ![Zepto Sales Analysis](https://private-user-images.githubusercontent.com/83501982/394286906-ab59722f-2508-473e-b683-5fe917d655ea.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzYyNTI2MDIsIm5iZiI6MTczNjI1MjMwMiwicGF0aCI6Ii84MzUwMTk4Mi8zOTQyODY5MDYtYWI1OTcyMmYtMjUwOC00NzNlLWI2ODMtNWZlOTE3ZDY1NWVhLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAxMDclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMTA3VDEyMTgyMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWIyYTgxNjUzODA0YjE5M2E2N2E5OGEzNjY0YWZiY2YyYjI4YjQ5NDAwZDRjMjA0YTliNWM5ZjA5YTg0YmQxY2YmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.98mmXBtxQ84GbJH-8L9nY9fWo0u2dm5Pm8UUOc3hmkM)  
 
 2. **Pizza Hut Sales Analysis**  
    Applied data analysis techniques to understand sales performance, customer preferences, and regional patterns.
-   ![Pizza Hut Sales Analysis](screenshot_link_here)  
+   ![Pizza Hut Sales Analysis](https://github.com/Ayushj321/Pizza-Hut-Analysis-using-SQL-and-PowerBI/blob/a687e1da80a86a71c227ffdfee0a2baa705eebab/Project%20Images/Screenshot%202025-01-06%20170136.png)  
 
 3. **YouTube Channel Analysis**  
    Utilized the YouTube API to fetch channel data and perform an in-depth analysis of growth trends, engagement metrics, and content performance.
-   ![YouTube Channel Analysis](screenshot_link_here)  
+    
 
 These projects helped me sharpen my skills in **Python**, **SQL**, **Excel**, and **Power BI**, while also teaching me how to integrate different tools in a real-world context to drive insights.
 
@@ -42,7 +42,6 @@ These projects helped me sharpen my skills in **Python**, **SQL**, **Excel**, an
 I am always looking for opportunities to contribute to a dynamic team, collaborate with talented professionals, and continue learning. If you’re interested in discussing potential opportunities or just want to connect, feel free to reach out.
 
 - 💼 **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/ayush-jain-b5ba52220/)
-- 📊 **Kaggle**: [Your Kaggle Profile](https://www.kaggle.com/ayushjain31)
 - 🌐 **Portfolio Website**: [Your Portfolio](your_portfolio_link_here)
 
 ### Contact
