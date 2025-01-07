@@ -32,7 +32,7 @@ I’ve had the opportunity to work on a variety of real-world projects, where I 
    ![Pizza Hut Sales Analysis](https://github.com/Ayushj321/Pizza-Hut-Analysis-using-SQL-and-PowerBI/blob/a687e1da80a86a71c227ffdfee0a2baa705eebab/Project%20Images/Screenshot%202025-01-06%20170136.png)  
 
 3. **YouTube Channel Analysis**  
-   Utilized the YouTube API to fetch channel data and perform an in-depth analysis of growth trends, engagement metrics, and content performance.
+   Utilized the YouTube API to fetch channel data and perform an in-depth analysis(EDA) of growth trends, engagement metrics, and content performance. Also deduced correlations between all input features and concluded that total no. of videos and total subscriber count had maximum correlation with total number of views whereas Channel age had almost no relation to total no of views, or no of subscribers.
     
 
 These projects helped me sharpen my skills in **Python**, **SQL**, **Excel**, and **Power BI**, while also teaching me how to integrate different tools in a real-world context to drive insights.
@@ -48,6 +48,7 @@ I am always looking for opportunities to contribute to a dynamic team, collabora
 
 I’m now looking to contribute to a dynamic team where I can apply my skills, collaborate with creative minds, and continue to grow both professionally and personally. My goal is to bring value to the organization while sharpening my abilities and evolving into a better version of myself. If you want to talk about data or have an offer, opportunity, or suggestion that might make my life more interesting, don't hesitate to get in touch! You can reach me at:  
 📧 **Email**: why.ayush.123@gmail.com
+🎮 **Discord**: [Discord Profile](https://discord.com/users/ayushjain_59961)
 
 ---
 
