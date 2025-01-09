@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Ayush 👋 I'm a 🚀 Data Analyst 🚀 I ❤️ Data ❤️">
+  <img src="https://github.com/Ayushj321/Ayushj321/blob/d2dfe1b289ac9aa5716005194084b6730589742e/animated.gif" alt="Hi, I'm Ayush 👋 I'm a 🚀 Data Analyst 🚀 I ❤️ playing with Data ❤️">
 </p>
 # Welcome to My GitHub Profile 👋
 
