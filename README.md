@@ -36,7 +36,7 @@ I’ve had the opportunity to work on a variety of real-world projects, where I 
 ![Pizza Hut Sales Analysis](https://github.com/Ayushj321/Pizza-Hut-Analysis-using-SQL-and-PowerBI/blob/a687e1da80a86a71c227ffdfee0a2baa705eebab/Project%20Images/Screenshot%202025-01-06%20170136.png)
    ![Pizza Hut Sales Analysis](https://github.com/Ayushj321/Pizza-Hut-Analysis-using-SQL-and-PowerBI/blob/a687e1da80a86a71c227ffdfee0a2baa705eebab/Project%20Images/Screenshot%202025-01-06%20170304.png)  
 
-4. **YouTube Channel Analysis**  
+3. **YouTube Channel Analysis**  
    Utilized the **YouTube API** to fetch channel data and perform an in-depth analysis **(EDA)** of growth trends, engagement metrics, and content performance. Also deduced correlations between all input features and concluded that total no. of videos and total subscriber count had maximum correlation with total number of views whereas Channel age had almost no relation to total no of views, or no of subscribers.
     
 
