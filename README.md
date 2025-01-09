@@ -1,4 +1,4 @@
-![My Intro](https://i.imgur.com/MXAjuKg.gifv)
+![My Intro](https://github.com/Ayushj321/Ayushj321/releases/download/gif/animatedgif.gif)
 
 # Welcome to My GitHub Profile 👋
 
