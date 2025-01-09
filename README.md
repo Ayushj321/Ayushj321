@@ -27,7 +27,7 @@ I’ve had the opportunity to work on a variety of real-world projects, where I 
 
 1. **Zepto Sales Analysis**  
    Analyzed sales data from Zepto to uncover patterns, trends, and key metrics that can drive business decisions.
-   ![Zepto Sales Analysis](https://private-user-images.githubusercontent.com/83501982/394286906-ab59722f-2508-473e-b683-5fe917d655ea.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzYyNTI2MDIsIm5iZiI6MTczNjI1MjMwMiwicGF0aCI6Ii84MzUwMTk4Mi8zOTQyODY5MDYtYWI1OTcyMmYtMjUwOC00NzNlLWI2ODMtNWZlOTE3ZDY1NWVhLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTAxMDclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwMTA3VDEyMTgyMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWIyYTgxNjUzODA0YjE5M2E2N2E5OGEzNjY0YWZiY2YyYjI4YjQ5NDAwZDRjMjA0YTliNWM5ZjA5YTg0YmQxY2YmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.98mmXBtxQ84GbJH-8L9nY9fWo0u2dm5Pm8UUOc3hmkM)  
+   ![Zepto Sales Analysis](https://github.com/Ayushj321/Zepto-Sales-Analysis/blob/e6966808febd3a611df7fa3a7bb3aa00ee152956/zeptoProject.png)  
 
 2. **Pizza Hut Sales Analysis**  
    Applied data analysis techniques to understand sales performance, customer preferences, and regional patterns.
