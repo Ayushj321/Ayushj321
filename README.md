@@ -31,10 +31,12 @@ I’ve had the opportunity to work on a variety of real-world projects, where I 
 
 2. **Pizza Hut Sales Analysis**  
    Applied data analysis techniques to understand sales performance, customer preferences, and regional patterns.
-   ![Pizza Hut Sales Analysis](https://github.com/Ayushj321/Pizza-Hut-Analysis-using-SQL-and-PowerBI/blob/a687e1da80a86a71c227ffdfee0a2baa705eebab/Project%20Images/Screenshot%202025-01-06%20170136.png)
+
+   
+![Pizza Hut Sales Analysis](https://github.com/Ayushj321/Pizza-Hut-Analysis-using-SQL-and-PowerBI/blob/a687e1da80a86a71c227ffdfee0a2baa705eebab/Project%20Images/Screenshot%202025-01-06%20170136.png)
    ![Pizza Hut Sales Analysis](https://github.com/Ayushj321/Pizza-Hut-Analysis-using-SQL-and-PowerBI/blob/a687e1da80a86a71c227ffdfee0a2baa705eebab/Project%20Images/Screenshot%202025-01-06%20170304.png)  
 
-3. **YouTube Channel Analysis**  
+4. **YouTube Channel Analysis**  
    Utilized the **YouTube API** to fetch channel data and perform an in-depth analysis **(EDA)** of growth trends, engagement metrics, and content performance. Also deduced correlations between all input features and concluded that total no. of videos and total subscriber count had maximum correlation with total number of views whereas Channel age had almost no relation to total no of views, or no of subscribers.
     
 
@@ -43,7 +45,7 @@ These projects helped me sharpen my skills in **Python**, **SQL**, **Excel**, an
 ### Let's Connect
 
 I’m now looking to contribute to a dynamic team where I can apply my skills, collaborate with creative minds, and continue to grow both professionally and personally. My goal is to bring value to the organization while sharpening my abilities and evolving into a better version of myself. If you want to talk about data or have an offer, opportunity, or suggestion that might make my life more interesting, don't hesitate to get in touch! You can reach me at:  
-- 📧 **Email**: [Connect to me on Gmail!](why.ayush.123@gmail.com)
+- 📧 **Email**: why.ayush.123@gmail.com
 - 💼 **LinkedIn**: [Checkout my LinkedIN!](https://www.linkedin.com/in/ayush-jain-b5ba52220/)
 - 🎮 **Discord**: [DM me on Discord!](https://discord.com/users/ayushjain_59961)
 
