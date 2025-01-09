@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://i.imgur.com/MXAjuKg.gifv" alt="Hi, I'm Ayush 👋 I'm a 🚀 Data Analyst 🚀 I ❤️ playing with Data ❤️">
-</p>
+![](https://i.imgur.com/MXAjuKg.gifv)
 # Welcome to My GitHub Profile 👋
 
 Hello and thank you for visiting my profile! I'm a **B.Tech graduate in Information Technology** with a strong passion for **Mathematics** and **problem-solving**. Over time, I’ve cultivated a deep interest in **data analysis**, which has driven me to explore various tools and techniques to uncover valuable insights from data. 
